@@ -5,4 +5,3 @@
 
 ## Ссылки
 - [Публичная страница на GitHub Pages](https://demidovmaxim808-a11y.github.io/front).
-
